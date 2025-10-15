@@ -130,10 +130,7 @@ function App() {
         </div>
 
         <footer>
-          RTSP Overlay App — local demo. Backend:{" "}
-          <a href="http://127.0.0.1:5000" target="_blank" rel="noreferrer">
-            http://127.0.0.1:5000
-          </a>
+         
         </footer>
       </div>
     </>
